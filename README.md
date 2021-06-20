@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vannaravuth Yo</h1>
 <h3 align="center">A backend developer also some experience with frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravuthz&label=Profile%20views&color=0e75b6&style=flat" alt="ravuthz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravuthz&label=Profile%20views&color=0e75b6&style=flat" alt="ravuthz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravuthz" alt="ravuthz" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravuthz" alt="ravuthz" /></a> </p> -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ravuthz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravuthz&theme=onedark&column=7" alt="ravuthz" /></a> </p>
+
+
+
 
 - 🔭 I’m currently working on **Spring Boot**
 
