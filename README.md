@@ -6,7 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravuthz" alt="ravuthz" /></a> </p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ravuthz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravuthz&theme=onedark&column=7" alt="ravuthz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravuthz&theme=nord&column=7" alt="ravuthz" /></a> </p>
 
 
 
