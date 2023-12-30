@@ -170,7 +170,7 @@
     },
     {
       "label": "Databases",
-      "value": "PostgreSQL, MySQL, MongoDB, SQLite, SQL Server"
+      "value": "PostgreSQL, MySQL, MongoDB, SQLite"
     },
     {
       "label": "DevOps",
