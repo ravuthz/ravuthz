@@ -74,7 +74,8 @@
         "Developed backend projects from scratch using nodejs, postgresql",
         "Developed frontend projects using react and ant-design",
         "Deployed applications to digitalocean with app platform and droplets",
-        "Maintaint exists applications"
+        "Maintaint exists applications",
+        "Research and Development about Map and GPS"
       ]
     },
     {
@@ -165,7 +166,7 @@
     },
     {
       "label": "Frameworks",
-      "value": "Spring Boot, Laravel, Codeignitor, Phalcon, AngularJS, ReactJS, VueJS, Bootstrap, AntDesign, Vuetify"
+      "value": "Spring Boot, Laravel, Codeignitor, Phalcon, ReactJS, VueJS, Bootstrap, AntDesign, Vuetify"
     },
     {
       "label": "Databases",
@@ -190,8 +191,10 @@
     "Play social media, research new technologies, listen music, watch movie"
   ],
   "socialMedia": {
-    "facebook": "https://www.facebook.com/ravuthz",
     "linkedin": "https://www.linkedin.com/in/vannaravuth-yo/",
-    "github": "https://github.com/ravuthz"
+    "facebook": "https://www.facebook.com/ravuthz",
+    "telegram": "https://t.me/ravuthz",
+    "github": "https://github.com/ravuthz",
+    "twitter": "https://twitter.com/Vutyo"
   }
 }
