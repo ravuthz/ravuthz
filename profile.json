@@ -21,23 +21,23 @@
   "educationBackground": [
     {
       "label": "Oct 2011 - 2015",
-      "value": "Graduated Bachelor Degree of Information Technology at Royal University of Phnom Penh"
+      "value": "Bachelor Degree of Information Technology at Royal University of Phnom Penh"
     },
     {
       "label": "Jun - Sep 2011",
-      "value": "Finished English Course at Cambodia International Cooperation Organization"
+      "value": "English Course at Cambodia International Cooperation Organization"
     },
     {
       "label": "May - Aug 2011",
-      "value": "Finished Computer Course at Multi-Skill Computer Center"
+      "value": "Computer Course at Multi-Skill Computer Center"
     },
     {
       "label": "2004 - 2010",
-      "value": "Passed High School at Chea Sim Santhormok High School"
+      "value": "High School at Chea Sim Santhormok High School"
     },
     {
       "label": "1998 - 2004",
-      "value": "Passed Primary School at Santhormok Primary School"
+      "value": "Primary School at Santhormok Primary School"
     }
   ],
   "tranningCourses": [
@@ -162,7 +162,7 @@
   ],
   "workSkills": [
     {
-      "label": "Languages",
+      "label": "Programming Languages",
       "value": "Java, PHP, NodeJS, Python, HTML, CSS, JS"
     },
     {
@@ -189,7 +189,7 @@
     }
   ],
   "hobbies": [
-    "Play social media, research new technologies, listen music, watch movie"
+    "Play social media, research new technologies, try new tech, write posts, listen music, watch movie"
   ],
   "socialMedia": {
     "linkedin": "https://www.linkedin.com/in/vannaravuth-yo/",
