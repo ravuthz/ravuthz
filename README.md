@@ -65,5 +65,6 @@
 
 <a href="https://github.com/ravuthz"><img src="https://avatars.githubusercontent.com/u/11207890?v=4" title="Julia Undeutsch" width="80" height="80"></a>
 
-Medium Posts:
-[https://medium.com/@ravuthz/show-the-listening-ports-in-any-os-via-cli-e1cbb628a064](Show the listening ports in any os via cli)
+### Medium Posts:
+
+[Show the listening ports in any os via cli](https://medium.com/@ravuthz/show-the-listening-ports-in-any-os-via-cli-e1cbb628a064)
