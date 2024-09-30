@@ -1,6 +1,18 @@
-![👋 Hi, I'm Vannaravuth Yo](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=ravuthz&label=Profile%20views&color=0e75b6&style=flat)
+<!-- ![👋 Hi, I'm Vannaravuth Yo](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif) -->
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=ravuthz&label=Profile%20views&color=0e75b6&style=flat) -->
+
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=ravuthz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  &#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;
+</div>
+
+<div align="center"> 
+  <img align="center" src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Vannaravuth Yo"/>
+</div>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
