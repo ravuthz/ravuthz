@@ -54,6 +54,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ravuthz&repo=laravel-crud&theme=tokyonight&cache_seconds=1800&border_radius=5&show_owner=false&hide_border=false" alt="GitHub repo-card Card" />
 </p>
 
+[![ShowPR](https://show-pr.vercel.app/embed/image/ravuthz?v=1)](https://show-pr.vercel.app)
+
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://buymeacoffee.com/ravuthz" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 16px"></a> <a href="https://ko-fi.com/ravuthz" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="36" style="margin-right: 16px"></a></p>
